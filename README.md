@@ -15,8 +15,8 @@ A practitioner-first framework for evaluating AI systems in real product environ
 
  Let’s connect
 
-- [LinkedIn]([url](https://www.linkedin.com/in/tatsianamark)) 
-- Topics I enjoy discussing: AI delivery, audits, startups, system reliability, product strategy — and staying balanced with running… and occasionally lying on a soft bed pretending it counts as recovery:) 
+- LinkedIn https://www.linkedin.com/in/tatsianamark
+- Topics I enjoy discussing: AI delivery, audits, startups, system reliability, product strategy — and staying balanced with running… and occasionally lying on a soft bed pretending it counts as recovery.
 <!--
 **TatsianaMark/TatsianaMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
