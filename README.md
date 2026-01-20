@@ -1,11 +1,12 @@
 Hi, I’m Tatsiana. I love using technology to solve real-world problems, especially where AI, complex systems, and integrations come together. I help turn challenging ideas into products that are reliable, responsible, and ready to scale from prototype to production. Along the way, I focus on embedding practical AI practices, audits, and clear workflows that make teams more effective.
-## 🚀 Featured work
 
-📘 **Fairness Audit Playbook**  
+🚀 Featured work
+
+- **Fairness Audit Playbook**  
 A practitioner-first framework for evaluating AI systems in real product environments.  
 → _From principles to concrete checks, tests, and delivery decisions._
 
-## Let’s connect
+ Let’s connect
 
 - 💼 [LinkedIn]([url](https://www.linkedin.com/in/tatsianamark)) 
 - 🧠 Topics I enjoy discussing: AI delivery, audits, startups, system reliability, product strategy — and staying balanced with running… and occasionally lying on a soft bed pretending it counts as recovery:) 
