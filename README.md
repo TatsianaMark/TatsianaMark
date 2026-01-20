@@ -1,18 +1,16 @@
-## Hi, I’m Tatsiana👋
-
-I work at the intersection of **engineering, product strategy, and responsible AI**, helping teams ship reliable, scalable, and trustworthy products — from early prototypes to production-scale platforms.
+Hi, I’m Tatsiana👋 I work at the intersection of **engineering, product strategy, and responsible AI**, helping teams ship reliable, scalable, and trustworthy products — from early prototypes to production-scale platforms.
 
 My background spans QA, automation, AI/LLM evaluation, business analysis, and startup delivery, with experience across both **early-stage teams** and **enterprise environments**.
 
 
-🚀 ### What I focus on 
+### What I focus on 
 
 #### - AI systems & LLM evaluation
 #### - Integrations & third-party services
 #### - Audits (practical, not bureaucratic)
 #### - Product & delivery
 
-## Featured work
+## 🚀 Featured work
 
 📘 **Fairness Audit Playbook**  
 A practitioner-first framework for evaluating AI systems in real product environments.  
