@@ -7,7 +7,7 @@ This space exists to share:
 - Decision-making patterns
 - Reference architectures
 
-🚀 Featured work
+Featured work
 
 - **Fairness Audit Playbook**  
 A practitioner-first framework for evaluating AI systems in real product environments.  
