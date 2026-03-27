@@ -1,4 +1,4 @@
-Hi, I’m Tatsiana. I love using technology to solve real-world problems, especially where AI, complex systems, and integrations come together. I help turn challenging ideas into products that are reliable, responsible, and ready to scale from prototype to production. Along the way, I focus on embedding practical AI practices, audits, and clear workflows that make teams more effective.
+Hi, I’m Tatsiana. I love using technology to solve real-world problems, especially where complex systems, AI, and integrations come together. I help turn challenging ideas into products that are reliable, responsible, and ready to scale from prototype to production. Along the way, I focus on embedding effective AI practices, audits, and clear workflows that make teams more effective.
 
 This space exists to share:
 
