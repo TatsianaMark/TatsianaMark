@@ -19,10 +19,10 @@ A practitioner-first framework for evaluating AI systems in real product environ
   
 - **Fairness Intervention Playbook**
 The playbook integrates four core toolkits:
-1. **Causal Fairness Toolkit** – Maps how protected attributes influence downstream outcomes.  
-2. **Pre-Processing Toolkit** – Corrects biased data representations before model training.  
-3. **In-Processing Toolkit** – Embeds fairness considerations directly into model training.  
-4. **Post-Processing Toolkit** – Adjusts predictions or thresholds to reduce unfair outcomes after model training. 
+  - Causal Fairness Toolkit – Maps how protected attributes influence downstream outcomes.
+  - Pre-Processing Toolkit – Corrects biased data representations before model training.
+  - In-Processing Toolkit – Embeds fairness considerations directly into model training.
+  - Post-Processing Toolkit – Adjusts predictions or thresholds to reduce unfair outcomes after model training. 
 
 - **Fairness Implementation Playbook**
 - **Regulatory Compliance & Risk Alignment**
